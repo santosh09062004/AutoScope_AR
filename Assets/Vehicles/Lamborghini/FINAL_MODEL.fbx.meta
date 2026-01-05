@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: e3cdc46be04cd544b9fa8f25a83c35d7
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: l_Lamborghini_CountachLPI8004_2022BadgeA_Material1
+    second: {fileID: 2100000, guid: 7165968c8e82d4b43906bb8fd00c950e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: l_Lamborghini_CountachLPI8004_2022Base_Material1
+    second: {fileID: 2100000, guid: c699503ba6d8d3746a0b5876ca62af12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: l_Lamborghini_CountachLPI8004_2022Carbon1_Material1
+    second: {fileID: 2100000, guid: c2b6f903e34ced54298279cf5f04d98a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: l_Lamborghini_CountachLPI8004_2022Coloured_Material1
+    second: {fileID: 2100000, guid: bdc652e8479f6e14bba873b021391206, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: l_Lamborghini_CountachLPI8004_2022EngineA_Material1
+    second: {fileID: 2100000, guid: c1c1494817a10a44baabdb8801360013, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: l_Lamborghini_CountachLPI8004_2022Grille1A_Material1
+    second: {fileID: 2100000, guid: 3f2ac81430c099640a84cd5652966db8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: l_Lamborghini_CountachLPI8004_2022Grille2A_Material1
+    second: {fileID: 2100000, guid: 74fcd5c3c4d96964c8308295c5b506cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: l_Lamborghini_CountachLPI8004_2022InteriorA_Material1
+    second: {fileID: 2100000, guid: 1f741e2eab3c96d46bb4f2aec57348ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: l_Lamborghini_CountachLPI8004_2022LightA_Material1
+    second: {fileID: 2100000, guid: baf5036a9fe02504fab9eeb6a9e3a922, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: l_Lamborghini_CountachLPI8004_2022ManufacturerPlateA_Material1
+    second: {fileID: 2100000, guid: a6b4a653c7d3cbd48b147ec60908ad62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: l_Lamborghini_CountachLPI8004_2022Paint_Material1
+    second: {fileID: 2100000, guid: 4a24e7f66a1ecbb48bc8c4143f0692b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: l_Lamborghini_CountachLPI8004_2022Window_Material1
+    second: {fileID: 2100000, guid: 30f5dd8321fec9b4daa856f2981ddc32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: l_Lamborghini_CountachLPI8004_2022_CallipersCalliperA_Zon_294ff6b1
+    second: {fileID: 2100000, guid: edafc48e233da314bacd1b827348d7ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: l_Lamborghini_CountachLPI8004_2022_CallipersCalliperBadge_862ed4c1
+    second: {fileID: 2100000, guid: 5a563d3c33d0a1248b2fb93002af81d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: l_Lamborghini_CountachLPI8004_2022_Wheel1A_3D_3DWheel1A_Material1
+    second: {fileID: 2100000, guid: c5635d5f21a613e488d1bdc67c5b1f93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red_glass
+    second: {fileID: 2100000, guid: d1cfe73f078e4bc4f8c55b3a0b392a4b, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BadgeA_DiffuseAOSO
+    second: {fileID: 2800000, guid: 2236ef96e37835a48b1ff84c15304d3e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CalliperBadgeA_Diffuse
+    second: {fileID: 2800000, guid: 3cb184160b6e0fb4faf39adaf775388f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Global_Texture_Coloured_Diffuse
+    second: {fileID: 2800000, guid: d8d6f7533748e7a4f9af83b5bf60ddcd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lamborghini_CountachLPI8004_2022_BadgeA_Normal
+    second: {fileID: 2800000, guid: 1c0c220d29973c049b6d8537b0fe2cf6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lamborghini_CountachLPI8004_2022_CalliperA_Zone_Diffuse
+    second: {fileID: 2800000, guid: 44ca391ee0c18944ea7bf5e0f7a85875, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lamborghini_CountachLPI8004_2022_EngineA_DiffuseAOSO
+    second: {fileID: 2800000, guid: 1f38912aebf095f4e89ec0c589900ce0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lamborghini_CountachLPI8004_2022_EngineA_Normal
+    second: {fileID: 2800000, guid: 7ec460e9c31917d4a99459479c1f5df3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lamborghini_CountachLPI8004_2022_Grille1A_DiffuseAOSO
+    second: {fileID: 2800000, guid: dc9aea073d377134caf4b490b40ebe1a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lamborghini_CountachLPI8004_2022_Grille1A_Normal
+    second: {fileID: 2800000, guid: c49ded72f3c849b46ad355a94229eda1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lamborghini_CountachLPI8004_2022_Grille2A_DiffuseAOSO
+    second: {fileID: 2800000, guid: 2943ddb6013f13241a468ac0dd8c7516, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lamborghini_CountachLPI8004_2022_Grille2A_Normal
+    second: {fileID: 2800000, guid: 8312d80942fc7a14face2a093b8711ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lamborghini_CountachLPI8004_2022_InteriorA_DiffuseAOSO
+    second: {fileID: 2800000, guid: 5b4ae19b848d48641ad6c4c2a8fb1296, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lamborghini_CountachLPI8004_2022_InteriorA_Normal
+    second: {fileID: 2800000, guid: cc2adae1bb687de4fa48c66f8063b469, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lamborghini_CountachLPI8004_2022_LightA_Diffuse
+    second: {fileID: 2800000, guid: 39750d67b5ebccf46ad0f9b7e08f14eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lamborghini_CountachLPI8004_2022_ManufacturerPlateA_Diffuse
+    second: {fileID: 2800000, guid: e8a5c05e0437bc043b39e2a6c2feeeca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lamborghini_CountachLPI8004_2022_Wheel1A_DiffuseAOSO
+    second: {fileID: 2800000, guid: bc96c5363de7d7a44ae34dc9d4727278, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lamborghini_CountachLPI8004_2022_Wheel1A_Normal
+    second: {fileID: 2800000, guid: fa08ad3c60829884596d3f8f99379a17, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: common_carbon05_black_diff
+    second: {fileID: 2800000, guid: bbe665cc8dbd3a84e8382ab0184de415, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: common_carbon05_norm
+    second: {fileID: 2800000, guid: b75f1747e79246548ae296d0dec02520, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
